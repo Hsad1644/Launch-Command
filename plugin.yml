@@ -1,0 +1,9 @@
+main: me.ClownStick.Launch.Main
+name: Launch
+version: 1.0
+author: ClownStick
+
+commands:
+  Launch:
+    usage: /launch
+    aliases: lch
